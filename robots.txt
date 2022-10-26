@@ -1,2 +1,5 @@
 User-Agent: *
 Disallow:
+
+# Directive sitemap additionnelle
+Sitemap: http://www.sitemaps.org/schemas/sitemap/0.9
