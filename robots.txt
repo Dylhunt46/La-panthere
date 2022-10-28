@@ -1,5 +1,6 @@
 User-Agent: *
-Disallow:
+Disallow:https: //github.com/Dylhunt46/La-panthere/blob/ea354a7709d0480097c8987528ecc40291c90605/style.css
+ 
 
 # Directive sitemap additionnelle
 Sitemap: http://www.sitemaps.org/schemas/sitemap/0.9
