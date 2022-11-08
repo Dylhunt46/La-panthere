@@ -687,6 +687,24 @@ p {
     font-size: 12px;
 }
 
+.text__intro {
+    font-size: 20px;
+}
+
+blockquote {
+    margin-bottom: 0;
+    padding: 0 10px;
+}
+
+.text__quote {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.author__quote {
+    font-size: 16px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
